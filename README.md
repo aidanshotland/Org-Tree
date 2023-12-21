@@ -3,6 +3,7 @@ A few different binary tree excericses in C++. This tree is an organization char
 Some excercises include: 
 
   Finds if an employee is present
+  
   Finds the mangagers of an employee
   
   Finds employee level in tree
